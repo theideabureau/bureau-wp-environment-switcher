@@ -20,5 +20,5 @@ This domain list can be amended / added to within the code.
 
 ### Installation
 
-1. Copy the 'acf-data-selector' folder into your plugins folder
+1. Copy the 'wp-environment-switcher' folder into your plugins folder
 2. Activate the plugin via the Plugins admin page
